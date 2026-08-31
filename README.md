@@ -1,2 +1,2 @@
 # Meu Inicio
-Repositorio para Estudo
+Repositorio para Estudo de linguagem C
